@@ -1,0 +1,49 @@
+C:\Users\ADMIN\Desktop\KhanaKhajana\KhanaKhajana\obj\Debug\KhanaKhajana.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\KhanaKhajana\KhanaKhajana\bin\KhanaKhajana.dll.config
+C:\Users\ADMIN\Desktop\KhanaKhajana\KhanaKhajana\bin\KhanaKhajana.dll
+C:\Users\ADMIN\Desktop\KhanaKhajana\KhanaKhajana\bin\KhanaKhajana.pdb
+C:\Users\ADMIN\Desktop\KhanaKhajana\KhanaKhajana\obj\Debug\KhanaKhajana.dll
+C:\Users\ADMIN\Desktop\KhanaKhajana\KhanaKhajana\obj\Debug\KhanaKhajana.pdb
+D:\ASP.NET\Final Project\KhanaKhajana\KhanaKhajana\bin\KhanaKhajana.dll.config
+D:\ASP.NET\Final Project\KhanaKhajana\KhanaKhajana\bin\KhanaKhajana.dll
+D:\ASP.NET\Final Project\KhanaKhajana\KhanaKhajana\bin\KhanaKhajana.pdb
+D:\ASP.NET\Final Project\KhanaKhajana\KhanaKhajana\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ASP.NET\Final Project\KhanaKhajana\KhanaKhajana\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ASP.NET\Final Project\KhanaKhajana\KhanaKhajana\obj\Debug\KhanaKhajana.dll
+D:\ASP.NET\Final Project\KhanaKhajana\KhanaKhajana\obj\Debug\KhanaKhajana.pdb
+D:\ASP.NET\Final Project\KhanaKhajana\KhanaKhajana\bin\EntityFramework.dll
+D:\ASP.NET\Final Project\KhanaKhajana\KhanaKhajana\bin\EntityFramework.SqlServer.dll
+D:\ASP.NET\Final Project\KhanaKhajana\KhanaKhajana\bin\EntityFramework.xml
+D:\ASP.NET\Final Project\KhanaKhajana\KhanaKhajana\bin\EntityFramework.SqlServer.xml
+D:\ASP.NET\Final Project\KhanaKhajana\KhanaKhajana\bin\ASPSnippets.FaceBookAPI.dll
+D:\ASP.NET\Final Project\KhanaKhajana\KhanaKhajana\obj\Debug\KhanaKhajana.csprojResolveAssemblyReference.cache
+D:\ASP.NET\Final Project\KhanaKhajana\KhanaKhajana\bin\AjaxControlToolkit.dll
+C:\Users\Kpatel6670\Desktop\Final Project\KhanaKhajana\KhanaKhajana\bin\KhanaKhajana.dll.config
+C:\Users\Kpatel6670\Desktop\Final Project\KhanaKhajana\KhanaKhajana\bin\KhanaKhajana.dll
+C:\Users\Kpatel6670\Desktop\Final Project\KhanaKhajana\KhanaKhajana\bin\KhanaKhajana.pdb
+C:\Users\Kpatel6670\Desktop\Final Project\KhanaKhajana\KhanaKhajana\bin\ASPSnippets.FaceBookAPI.dll
+C:\Users\Kpatel6670\Desktop\Final Project\KhanaKhajana\KhanaKhajana\bin\EntityFramework.dll
+C:\Users\Kpatel6670\Desktop\Final Project\KhanaKhajana\KhanaKhajana\bin\EntityFramework.SqlServer.dll
+C:\Users\Kpatel6670\Desktop\Final Project\KhanaKhajana\KhanaKhajana\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Kpatel6670\Desktop\Final Project\KhanaKhajana\KhanaKhajana\bin\EntityFramework.xml
+C:\Users\Kpatel6670\Desktop\Final Project\KhanaKhajana\KhanaKhajana\bin\EntityFramework.SqlServer.xml
+C:\Users\Kpatel6670\Desktop\Final Project\KhanaKhajana\KhanaKhajana\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Kpatel6670\Desktop\Final Project\KhanaKhajana\KhanaKhajana\obj\Debug\KhanaKhajana.csprojAssemblyReference.cache
+C:\Users\Kpatel6670\Desktop\Final Project\KhanaKhajana\KhanaKhajana\obj\Debug\KhanaKhajana.csproj.CoreCompileInputs.cache
+C:\Users\Kpatel6670\Desktop\Final Project\KhanaKhajana\KhanaKhajana\obj\Debug\KhanaKhajana.csproj.CopyComplete
+C:\Users\Kpatel6670\Desktop\Final Project\KhanaKhajana\KhanaKhajana\obj\Debug\KhanaKhajana.dll
+C:\Users\Kpatel6670\Desktop\Final Project\KhanaKhajana\KhanaKhajana\obj\Debug\KhanaKhajana.pdb
+D:\ASP.NET\New version Project\KhanaKhajana\KhanaKhajana\bin\KhanaKhajana.dll.config
+D:\ASP.NET\New version Project\KhanaKhajana\KhanaKhajana\bin\KhanaKhajana.dll
+D:\ASP.NET\New version Project\KhanaKhajana\KhanaKhajana\bin\KhanaKhajana.pdb
+D:\ASP.NET\New version Project\KhanaKhajana\KhanaKhajana\bin\EntityFramework.dll
+D:\ASP.NET\New version Project\KhanaKhajana\KhanaKhajana\bin\EntityFramework.SqlServer.dll
+D:\ASP.NET\New version Project\KhanaKhajana\KhanaKhajana\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ASP.NET\New version Project\KhanaKhajana\KhanaKhajana\bin\EntityFramework.xml
+D:\ASP.NET\New version Project\KhanaKhajana\KhanaKhajana\bin\EntityFramework.SqlServer.xml
+D:\ASP.NET\New version Project\KhanaKhajana\KhanaKhajana\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ASP.NET\New version Project\KhanaKhajana\KhanaKhajana\obj\Debug\KhanaKhajana.csprojAssemblyReference.cache
+D:\ASP.NET\New version Project\KhanaKhajana\KhanaKhajana\obj\Debug\KhanaKhajana.csproj.CoreCompileInputs.cache
+D:\ASP.NET\New version Project\KhanaKhajana\KhanaKhajana\obj\Debug\KhanaKhajana.csproj.CopyComplete
+D:\ASP.NET\New version Project\KhanaKhajana\KhanaKhajana\obj\Debug\KhanaKhajana.dll
+D:\ASP.NET\New version Project\KhanaKhajana\KhanaKhajana\obj\Debug\KhanaKhajana.pdb

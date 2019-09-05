@@ -1,0 +1,93 @@
+﻿.pagerSpace span
+{
+    padding:8px;
+    text-decoration:underline;
+}
+.loading {
+    font-family: Arial;
+    font-size: 10pt;
+    border: 3px solid orange;
+    width: 200px;
+    height: 100px;
+    display: none;
+    position: fixed;
+    background-color: black;
+    z-index: 999;
+    padding-top: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: black;
+    color:white;
+    z-index: 99;
+    opacity: 0.7;
+    filter: alpha(opacity=80);
+    -moz-opacity: 0.8;
+    min-height: 100%;
+    width: 100%;
+}
+.alert {
+  padding: 20px;
+  /*background-color: #f44336;
+  color: white;
+  position:fixed;*/
+  display:none;
+  min-width: 250px; /* Set a default minimum width */
+  margin-left: -125px; /* Divide value of min-width by 2 */
+  background-color: #f44336; 
+  color: #fff; /* White text color */
+  text-align: center; /* Centered text */
+  border-radius: 2px; /* Rounded borders */
+  padding: 16px; /* Padding */
+  position: fixed; /* Sit on top of the screen */
+  z-index: 1; /* Add a z-index if needed */
+  left: 50%; /* Center the snackbar */
+  bottom: 30px;
+  /*opacity:0.8;*/
+  font-size:17px;
+}
+
+
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
+.martop
+{
+    margin-top:25px;
+}
+
+
+.fa-star-empty:before {
+    content: "\f005";
+    color:#BDBDBD;
+}
+ .fa-star:before {
+    content: "\f005";
+    color:#3c8dbc;
+}
+.roundImg
+{
+    border:0 solid white;
+    border-radius:100px;
+}
+.roundcont
+{
+    border:0 solid white;
+    border-radius:10px;
+}
+.wordwrap
+ {
+    width:250px;
+    word-break:break-all;
+ }
